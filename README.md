@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/11718482?s=460&u=e014bbc84b7756ae2da0c73a23a30411be181491&v=4" width="400px">
+  <img src="https://i.ya-webdesign.com/images/pokemon-gif-png-6.gif" height="200px">
   <br>
   <samp>
    🔭 I’m currently working on : Android java, <code> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </code>,Jquery JS<code> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & Django<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>. <br>
