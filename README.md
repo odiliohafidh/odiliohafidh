@@ -4,10 +4,47 @@
 <p align="center">
   <img src="https://i.ya-webdesign.com/images/pokemon-gif-png-6.gif" height="200px">
   <br>
-  <samp>
-   🔭 I’m currently working on : Android java, <code> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </code>,Jquery JS<code> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>, Python<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>, & Django<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>. <br>
-  :video_game: Animal Crossing : New Leaf | Animal Crossing : New Horizon | Animal Crossing : Wild World <br>
-  </samp>
+  ## <h1>Skillset Proficiency<h1>
+
+## <h1>Programming Language<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,java,android,php&perline=14"/>
+  </a>
+</p>
+
+
+## <h1>Tools & Framework<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=codeigniter,laravel,django&perline=14"/>
+  </a>
+</p>
+
+## <h1>Database & Baas<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=14"/>
+  </a>
+</p>
+
+
+## <h1>Design<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=photoshop&perline=14"/>
+  </a>
+</p>
+
+
+## <h1>DevOps<h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=ubuntu,windows&perline=14"/>
+  </a>
+</p>
+
+
   
   <a href="https://www.linkedin.com/in/odilio-aziz-29693263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
