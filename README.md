@@ -1,10 +1,8 @@
 ### Hi there 👋
+My Name Odilio Arys H A ,my experienced fullstack developer with 8 years more about app android native and web developer.
 
 
-<p align="center">
-  <img src="https://i.ya-webdesign.com/images/pokemon-gif-png-6.gif" height="200px">
-  <br>
-  ## <h1>Skillset Proficiency<h1>
+## <h1>Skillset Proficiency<h1>
 
 ## <h1>Programming Language<h1>
 <p align="center">
@@ -17,14 +15,14 @@
 ## <h1>Tools & Framework<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=codeigniter,laravel,django&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=ci,laravel,django,flask&perline=14"/>
   </a>
 </p>
 
 ## <h1>Database & Baas<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=mysql,sqlserver,firebase&perline=14"/>
   </a>
 </p>
 
@@ -32,7 +30,7 @@
 ## <h1>Design<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=photoshop&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=photoshop,capcut&perline=14"/>
   </a>
 </p>
 
@@ -40,12 +38,14 @@
 ## <h1>DevOps<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=ubuntu,windows&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=ubuntu,windows,xampp&perline=14"/>
   </a>
 </p>
 
 
-  
+<p align="center">
+  <img src="https://i.ya-webdesign.com/images/pokemon-gif-png-6.gif" height="200px">
+  <br>  
   <a href="https://www.linkedin.com/in/odilio-aziz-29693263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <br>
   
