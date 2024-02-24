@@ -7,7 +7,7 @@ My Name Odilio Arys H A ,my experienced fullstack developer with 8 years more ab
 ## <h1>Programming Language</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,java,android,php&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,java,py,androidstudio,php&perline=14"/>
   </a>
 </p>
 
