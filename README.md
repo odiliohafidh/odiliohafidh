@@ -2,9 +2,9 @@
 My Name Odilio Arys H A ,my experienced fullstack developer with 8 years more about app android native and web developer.
 
 
-## <h1>Skillset Proficiency<h1>
+## <h1>Skillset Proficiency</h1>
 
-## <h1>Programming Language<h1>
+## <h1>Programming Language</h1>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=nodejs,html,css,js,java,android,php&perline=14"/>
