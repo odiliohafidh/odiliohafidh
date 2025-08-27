@@ -1,5 +1,11 @@
 ### Hi there 👋
-My Name Odilio Arys H A ,my experienced fullstack developer with 8 years more about app android native and web developer.
+My name is Odilio Arys H A, and I am an experienced fullstack developer with over 8 years of expertise in mobile and web development. Throughout my career, I have specialized in Android native application development, creating robust and user-friendly mobile solutions that deliver exceptional performance and seamless user experiences.
+
+As a fullstack developer, I possess comprehensive knowledge spanning both frontend and backend technologies, enabling me to build complete end-to-end solutions. My expertise in Android native development has allowed me to create sophisticated mobile applications using Java and Kotlin, while my web development skills encompass modern frameworks and technologies for creating responsive, scalable web applications.
+
+With 8+ years in the industry, I have successfully delivered numerous projects, ranging from enterprise-level mobile applications to complex web platforms. My experience has taught me the importance of clean code architecture, user-centric design, and staying current with the latest technological trends and best practices in both mobile and web development domains.
+
+I am passionate about creating innovative digital solutions that solve real-world problems and continuously strive to expand my technical knowledge to deliver cutting-edge applications that meet and exceed client expectations.
 
 
 #<h1>Skillset Proficiency</h1>
@@ -22,7 +28,7 @@ My Name Odilio Arys H A ,my experienced fullstack developer with 8 years more ab
 ## <h1>Database & Baas<h1>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,sqlserver,firebase&perline=14"/>
+   <img src="https://skillicons.dev/icons?i=mysql,mssql,firebase&perline=14"/>
   </a>
 </p>
 
